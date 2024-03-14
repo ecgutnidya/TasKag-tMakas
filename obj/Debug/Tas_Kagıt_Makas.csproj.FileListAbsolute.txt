@@ -1,0 +1,8 @@
+C:\Users\TUĞÇE\source\repos\Tas_Kagıt_Makas\Tas_Kagıt_Makas\bin\Debug\Tas_Kagıt_Makas.exe.config
+C:\Users\TUĞÇE\source\repos\Tas_Kagıt_Makas\Tas_Kagıt_Makas\bin\Debug\Tas_Kagıt_Makas.exe
+C:\Users\TUĞÇE\source\repos\Tas_Kagıt_Makas\Tas_Kagıt_Makas\bin\Debug\Tas_Kagıt_Makas.pdb
+C:\Users\TUĞÇE\source\repos\Tas_Kagıt_Makas\Tas_Kagıt_Makas\obj\Debug\Tas_Kagıt_Makas.csproj.AssemblyReference.cache
+C:\Users\TUĞÇE\source\repos\Tas_Kagıt_Makas\Tas_Kagıt_Makas\obj\Debug\Tas_Kagıt_Makas.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUĞÇE\source\repos\Tas_Kagıt_Makas\Tas_Kagıt_Makas\obj\Debug\Tas_Kagıt_Makas.csproj.CoreCompileInputs.cache
+C:\Users\TUĞÇE\source\repos\Tas_Kagıt_Makas\Tas_Kagıt_Makas\obj\Debug\Tas_Kagıt_Makas.exe
+C:\Users\TUĞÇE\source\repos\Tas_Kagıt_Makas\Tas_Kagıt_Makas\obj\Debug\Tas_Kagıt_Makas.pdb
